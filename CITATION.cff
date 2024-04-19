@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "To cite this repository, use:"
+license: CC-BY-4.0
+title: "Development of a Low-Cost Incinerator in Cape Maclear, Malawi"
+date-released: "2024-04-19"
+type: software
+authors:
+  - family-names: Peduzzi
+    given-names: Mosè
+    email: peduzzi.mose@gmail.com
+    ordid: https://orcid.org/0009-0004-6055-3835
+  - family-names: Tilley
+    given-names: Elizabeth
+    email: tilleye@ethz.ch
+    orcid: https://orcid.org/0000-0002-2095-9724
+  - family-names: Tkaczuk
+    given-names: Jakub
+    email: jtkaczuk@ethz.ch
+    orcid: https://orcid.org/0000-0001-7997-9423
+  - family-names: Kalina
+    given-names: Marc
+    email: mkalina@ethz.ch
+    orcid: https://orcid.org/0000-0002-6335-3845
+contact:
+  - family-names: Peduzzi
+    given-names: Mosè
+    email: peduzzi.mose@gmail.com
+    ordid: https://orcid.org/0009-0004-6055-3835
+version: 0.0.1
