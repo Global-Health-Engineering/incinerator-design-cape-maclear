@@ -1,0 +1,21 @@
+---
+title: "Low-Cost Incinerator for Cape Maclear, Malawi"
+subtitle: "Design, Maintenance, and Operation"
+number-sections: true
+format: html
+---
+
+<!-- badges: start -->
+[![](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+<!-- badges: end -->
+
+<b>Contributors:</b>  
+- Mosè Peduzzi <a href="https://orcid.org/0009-0004-6055-3835">
+<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0009-0004-6055-3835
+</a> *author, maintainer*  
+- Elizabeth Tilley <a href="https://orcid.org/0000-0002-2095-9724">
+<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-2095-9724
+</a> *supervisor*  
+- Jakub Tkaczuk <a href="https://orcid.org/0000-0001-7997-9423">
+<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0001-7997-9423
+</a> *supervisor, maintainer, developer*  
