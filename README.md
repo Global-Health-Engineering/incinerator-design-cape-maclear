@@ -20,11 +20,11 @@
 
 <p align="middle"> 
 <img src="img/ETH_GHE_logo.svg" width=600>
-<br>
+<br><br>
 <b>Complete description of system design, functionalities, operation, and maintenance is available on:<br \>
 <a href="https://global-health-engineering.github.io/incinerator-design-cape-maclear/">Github pages</a>.
 </b>
-<br>
+<br><br>
 It compliments the openly-accessible master’s thesis, available on the<br \>  
 <a href="https://www.research-collection.ethz.ch/handle/20.500.11850/670633">ETH Research Collection</a>.
 <br>
