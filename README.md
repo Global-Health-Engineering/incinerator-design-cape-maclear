@@ -38,9 +38,8 @@ This document present the construction of a modified De Montfort Incinerator Mar
 
 The construction of this incinerator is part of a broader project, conducted by Global Health Engineering, a ETH research group, aiming to introduce regular waste collection in the township of Cape Maclear, Malawi, ensuring safe waste disposal and minimizing contamination as much as possible. 
 The main goal of the incinerator is to reduce waste volume and make hazardous waste harmless, emphasizing cost-effectiveness and minimizing risks.
-<p align="middle"> 
-![](img/Picture1.png){width=60%}
-</p>
+
+![](img/Picture1.png)
 
 # License
 
