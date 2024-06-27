@@ -1,5 +1,5 @@
 ---
-title: "Incinerator Construction"
+title: "Construction"
 number-sections: true
 format: html
 ---
