@@ -3,3 +3,19 @@ title: "Construction"
 number-sections: true
 format: html
 ---
+
+The first step in the construction of the incinerator is the fabrication of the metal parts, these include:
+
+**Ash tray** is composed of a box made of 3 mm-thick metal plates, welded together with a removable grid, build from two angular profiles on the sides. They are connected with a 10 mm armament bar creating a grid on which the unburned waste lays (see Figure 1 for exact dimensions and Figure 2 for construction details).
+
+**Loading door and its frame** allow for an easy access to the primary combustion chamber. The loading door is composed of a 3 mm steel plate with angular profiles on the sides. The door is connected to the frame with a hinge and a M 10 threaded bar. The frame has a U-shaped cross-section to seal the movable parts with sand placed in the U-shaped channel.
+
+**Cover of the secondary combustion chamber and its frame** allow to close the secondary combustion chamber with a steel plate that is free to dilatate without avoiding leaking of gas and breaking the incinerator's concrete walls.
+
+**Cyclone separator** was built from a 200 l empty oil drum, cut by hand with shears, a hammer, and a chisel. The barrel has to be opened to create three pieces: the central, cylindrical body, the lower cone, and the inlet tube. The parts needs to be welded together and attached to the chimney and the support plate (see Figure 3 for exact measurements).
+
+![Figure 1: CAD drawing of the ash tray.](cad/ash_tray.png){width=100%}
+
+![Figure 2: Ash tray in production. a) Welding. b) Loading door frame cut and ready for welding. c) Hinge between the and the frame.](img/03-welding-door.png){width=100%}
+
+![Figure 3: CAD drawing of the complete incinerator's assembly.](cad/de_montfort_incinerator_with_cyclone_separator.png){width=100%}

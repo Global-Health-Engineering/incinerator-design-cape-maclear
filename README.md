@@ -29,7 +29,7 @@ It compliments the openly-accessible master’s thesis, available on the<br \>
 <a href="https://www.research-collection.ethz.ch/handle/20.500.11850/670633">ETH Research Collection</a>
 <br><br>
 and the introduction video available on<br \>
-<a href="https://youtu.be/6FmEJcynxZ">Youtube</a>
+<a href="https://www.youtube.com/watch?v=6FmEJcynxZE">Youtube</a>.
 </p>
 
 # Background
