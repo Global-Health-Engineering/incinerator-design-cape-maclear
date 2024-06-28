@@ -19,7 +19,7 @@
 </a> *supervisor*  
 
 <p align="middle"> 
-<img src="img/ETH_GHE_logo.svg" width=600>
+<img src="img/ETH_GHE_logo_negative.svg" width=600>
 <br><br>
 <b>Complete description of system design, functionalities, operation, and maintenance is available on:<br \>
 <a href="https://global-health-engineering.github.io/incinerator-design-cape-maclear/">Github pages</a>.
