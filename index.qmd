@@ -28,10 +28,9 @@ Github repository for this page sits [here](https://github.com/Global-Health-Eng
 
 # Introduction {#sec-intro}
 
-This document present the construction of a modified De Montfort Incinerator Mark 8A, which was designed and built between October and December 2023 in Cape Maclear, Malawi. The incinerator presents several modifications compared to the original design[^1], particularly an ash collection box [^2] and a cyclone separator to filter the outgoing gases.
+This video presents the construction of a modified De Montfort Incinerator Mark 8A, designed and built between October and December 2023 in Cape Maclear, Malawi. The incinerator presents several modifications compared to the original design [^1], e.g., the ash collection drawer [^2] and the cyclone separator to filter the flue gases.
 
-The construction of this incinerator is part of a broader project, conducted by Global Health Engineering, a ETH research group, aiming to introduce regular waste collection in the township of Cape Maclear, Malawi, ensuring safe waste disposal and minimizing contamination as much as possible. 
-The main goal of the incinerator is to reduce waste volume and make hazardous waste harmless, emphasizing cost-effectiveness and minimizing risks.
+The construction of the incinerator is part of a broader project conducted by Global Health Engineering, an ETH research group, which aims to introduce regular waste collection in the township of Cape Maclear, Malawi, ensuring safe waste disposal and minimizing environmental contamination. This incinerator reduces waste volume and  makes hazardous waste harmless, emphasizing cost-effectiveness.
 
 [^1]: [https://mw-incinerator.info/](https://mw-incinerator.info/)
 [^2]: J. Van Den Noortgate, D. Taylor, and G. Yannick, *Incinerator in Health Structures of Low-Income Countries*. Médecins Sans Frontières, 2012. Available [here](https://events.development.asia/system/files/materials/2020/04/202004-incineration-health-structures-low-income-countries.pdf).
@@ -42,9 +41,9 @@ The incinerator built within this work is a small-size incinerator, composed of 
 
 The incinerators can burn about 3.5 kg/h of waste, reaching temperature of 770°C. The mass of the ashes produced by the incinerators represent about 20-30% of total mass of waste burnt.
 
-![Figure 1: Modified De Montfort incinerator Mark 8A with integrated cyclone separator in the back and removable ash tray on the bottom of the combustion chamber.](img/Picture1.png){width=50%}
+![Figure 1: Modified De Montfort incinerator Mark 8A with integrated cyclone separator in the back and removable ash tray on the bottom of the combustion chamber.](img/01-schematics.png){width=70%}
 
-![Figure 2: Incinerator during construction.](img/Picture2.jpg){width=60%}
+![Figure 2: Incinerator during construction.](img/02-construction-scm-bricks.jpg){width=60%}
 
 # Part List {#sec-part-list}
 
