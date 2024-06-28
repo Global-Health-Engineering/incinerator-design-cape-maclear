@@ -21,7 +21,7 @@ format: html
 </a> *supervisor*  
 
 <p align="middle">
-![](img/ETH_GHE_logo.svg){width=90%}
+![](img/ETH_GHE_logo_negative.svg){width=90%}
 <br>
 Github repository for this page sits [here](https://github.com/Global-Health-Engineering/incinerator-design-cape-maclear).
 </p>
