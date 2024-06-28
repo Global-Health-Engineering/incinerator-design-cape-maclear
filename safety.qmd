@@ -3,3 +3,18 @@ title: "Safety Precautions"
 number-sections: true
 format: html
 ---
+
+# Safety during construction {#sec-safety-construction}
+
+Wear safety glasses and working gloves when using the angle grinder or other power tools.
+
+Make sure to use safety equipment during welding: passive UV protection glasses of class EN 169 or automatic glasses of class EN 379 to protect your eyes. Wear heat resistant gloves and colthing covering your full body, forearms and legs in particular. If you use an electrode/stick welding machine, make sure to work in a ventilated place. 
+
+# Safety during operation {#sec-safety-operation}
+
+Wear the following:  
+- long clothes, fire retardant and acid resistant, if possible;  
+- safety goggles;  
+- heat resistant gloves;  
+- rubber boots;  
+- filtering mask, with carbon active filters, if possible.  

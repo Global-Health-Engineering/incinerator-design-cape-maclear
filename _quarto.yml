@@ -12,6 +12,10 @@ website:
         text: Construction
       - href: operation-maintenance.qmd
         text: Operation & Maintenance
+      - href: safety.qmd
+        text: Safety
+      - href: extra.qmd
+        text: Extra
     right:
       - icon: "envelope-at"
         href: "mailto:ghe@mavt.ethz.ch?subject=Low-Cost Incinerator Design"

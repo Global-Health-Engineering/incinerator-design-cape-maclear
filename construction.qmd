@@ -28,21 +28,21 @@ All the steel parts have to be painted with a heat resistant paint to prevent th
 
 Once all the metal parts are completed, the work at the construction site starts. To elevate the incinerator from the ground and give the all structure more stability, a base of 3 m $\times$ 3 m has to be built. 8 nails and a string are used to set the boundaries of the base, as shown in Figure 5. Figure 6 shows the place for the incinerator's construction.
 
-![Figure 5: Scheme visualizing the nail placement and the string to start setting up the foundation of the base.](img/05-foundation-measurements.png).
+![Figure 5: Scheme visualizing the nail placement and the string to start setting up the foundation of the base.](img/05-foundation-measurements.png){width=50%}
 
-![Figure 6: Bricklayers set in place nails and string before starting the construction at the Billy Riordan Memorial Clinic.](img/06-measuring-field-for-foundation.jpg).
+![Figure 6: Bricklayers set in place nails and string before starting the construction at the Billy Riordan Memorial Clinic.](img/06-measuring-field-for-foundation.jpg)
 
 Once the string is in place, the outer structure shall be built with bricks and cement, starting from the corners. Steps in foundation construction are shown in Figure 7.
 
-![Figure 7: First steps in building the foundation: a) Filling the inner space of the foundation with broken bricks and stones the size of a fist. b) Cover everything with a layer dirt and wet it. c) Cover everything with a layer of cement.](img/07-foundation-preparation.png).
+![Figure 7: First steps in building the foundation: a) Filling the inner space of the foundation with broken bricks and stones the size of a fist. b) Cover everything with a layer dirt and wet it. c) Cover everything with a layer of cement.](img/07-foundation-preparation.png)
 
 The inner part of the structure is filled with stones and broken bricks in the size of a fist, then covered with dirt and watered. In the end, everythin is covered with a layer of cement - a sponge and a trowel are used to smooth out the surface. Because of expected high temperatures coming from the incineration chamber, and exposure to the sun, it is important to slow the drying of cement by wetting it continuousely for 24 hours. At least 48 hours must pass, after completion of the base, before the first bricks can be laid.
 
-![Figure 8: Last finishing touches of the base: a) wet cement being smoothed. b) drying cement being smoothed with a sponge and a trowel.](img/08-smoothing-concrete.png).
+![Figure 8: Last finishing touches of the base: a) wet cement being smoothed. b) drying cement being smoothed with a sponge and a trowel.](img/08-smoothing-concrete.png)
 
 To elevate the drawer from the floor and facilitate its motion, a small base made of bricks and cement, is build following this schematic layout from Figure 9.
 
-![Figure 9: Scheme showing the layout of the bricks, and their size, for the base of the incinerator.](img/09-brick-layout.png).
+![Figure 9: Scheme showing the layout of the bricks, and their size, for the base of the incinerator.](img/09-brick-layout.png)
 
 On this small base, the ash drawer is placed and used as a reference to lay the first layer of bricks of the combustion chamber wall.
 
@@ -52,6 +52,9 @@ The wall is raised untill it is 30 cm high. At this height reinforcement bars ar
 
 The walls of the secondary chamber are raised to the height of 1.3 m. Later, the cyclone separator and upper frame of the secondary chamber can be incorporated into the structure. 
 
-Once all the parts are set in place and dry, a second layer of bricks is put in place. It is attached to the first one to confer more robustness to the whole structure.
+Once all the parts are set in place and dry, a second layer of bricks is put in place. It is attached to the first one to confer more robustness to the whole structure (see Figure 11).
+
+![Figure 11: Consecutive construction phases: a) Frame of the loading door embedded within the structure at an height of 1 m. b) Secondary combustion chamber walls raised to the height of 1.3 m and the cyclone being put in place. c) Inlet tube to the cyclone separator being integrated into the back wall of the secondary combustion chamber. d) The outside wall under construction, covering the inner wall.](img/10-lower-bricks-with-tray.png)
 
 Plastering work and a roof remain optional and of little impact to the operational conditions of the incinerator itself (more information on them is available in section <a href="https://global-health-engineering.github.io/incinerator-design-cape-maclear/operation-maintenance.html">Extra</a>).
+

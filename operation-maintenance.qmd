@@ -3,3 +3,24 @@ title: "Prototype Operation & Maintenance"
 number-sections: true
 format: html
 ---
+
+# Operation {#sec-operation}
+
+This section briefly explains the steps to be followed for proper use of the incinerator. To operate it:
+
+1. Wear working clothes with long sleeves (better if fire retardant and acid resistant), closed shoes (preferably rubber boots), safety goggles, and a face mask. 
+2. Once sure that the incinerator is cold, pull out the ash drawer, remove the grate and empty the contents into the ash containment pit. Use a shovel or a broom to remove any trash/ashes stuck to the bottom of the tray. Check the interior of the incinerator and remove any waste from inside the incinerator chamber.
+3. Place back the empty ash tray with the grate inside the primary combustion chamber.
+4. Open the loading door and fill half of the combustion chamber with waste. Make sure there are no light bulbs, batteries or paint cans as they may explode during combustion, damaging the structure and causing serious injury.
+5. Light a piece of paper or cardboard and insert it inside the primary combustion chamber.
+6. Close the loading door.
+7. A waste bag of about 40 liters can be inserted every 30 minutes.
+8. Once the usage cycle is done, make sure that the loading door is closed and the ash tray is inside the primary combustion chamber until the incinerator cools down complitely.
+
+# Maintenance {#sec-maintenance}
+
+To ensure longevity of the incinerator, maintenance, as specified below, is essential.
+
+1. Weekly Inspection - check the state of the primary nd secondary combustion chambers, the inlet tube to the cyclone separator, and the cyclone. Make sure to change the sand used to seal the loading door once and the lid of the secondary combustion chamber, once it is burned.
+2. Monthly Inspection - search for rusting points and paint them with heat resistant paint. Check for moving bricks and fix them in place with cement.
+3. Year Inspection - Substitute broken or heavily rusted parts.
