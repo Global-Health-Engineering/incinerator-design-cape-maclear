@@ -34,9 +34,9 @@ and the introduction video available on<br \>
 
 # Background
 
-This video presents the construction of a modified De Montfort Incinerator Mark 8A, designed and built between October and December 2023 in Cape Maclear, Malawi. The incinerator presents several modifications compared to the original design, e.g., the ash collection drawer and the cyclone separator to filter the flue gases.
+This repository presents the construction of a modified De Montfort Incinerator Mark 8A, designed and built between October and December 2023 in Cape Maclear, Malawi. The incinerator has several modifications implemented, compared to the original design, e.g., the ash collection drawer and the cyclone separator to filter the flue gases.
 
-The construction of the incinerator is part of a broader project conducted by Global Health Engineering, an ETH research group, which aims to introduce regular waste collection in the township of Cape Maclear, Malawi, ensuring safe waste disposal and minimizing environmental contamination. This incinerator reduces waste volume and  makes hazardous waste harmless, emphasizing cost-effectiveness.
+The construction of the incinerator is part of a broader project conducted by Global Health Engineering, an ETH research group, aiming to introduce regular waste collection in the township of Cape Maclear, Malawi, ensuring safe waste disposal and minimizing environmental contamination. The incinerator constructed within this work reduces waste volume and makes hazardous waste harmless, emphasizing cost-effectiveness.
 
 ![](img/00-incenerator-clinic.jpg)
 
